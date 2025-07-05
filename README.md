@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/siddharth-prabhudesai/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/Sidx005)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square)](https://x.com/SidD1327174)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]https://x.com/SidD1327174)
 
 ---
 
